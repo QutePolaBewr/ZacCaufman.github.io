@@ -292,7 +292,7 @@ input, select, textarea {
 	}
 
 	a {
-		color: #212931;
+		color: #ffffff;
 		border-bottom-color: rgba(33, 41, 49, 0.5);
 	}
 
@@ -302,11 +302,11 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #212931;
+		color: #c0c0c0;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #212931;
+		color: #c9c9c9;
 	}
 
 	blockquote {
@@ -3233,8 +3233,8 @@ input, select, textarea {
 			left: 0;
 			width: 100%;
 			height: 100%;
-			background-color: #5e5e5e9a;
-			background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/OIG.jpg");
+			background-color: #2020209a;
+			background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../../images/OIG.jpg");
 			background-size: auto,								auto,														100% auto;
 			background-position: center,								center,														top center;
 			background-repeat: repeat,								no-repeat,													no-repeat;
@@ -3722,7 +3722,7 @@ input, select, textarea {
 					}
 
 				#nav ul.links li.active {
-					background-color: #ffffff;
+					background-color: #7e7e7e;
 				}
 
 					#nav ul.links li.active a {
@@ -3756,7 +3756,7 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		background-color: #ffffff;
+		background-color: #464646;
 		position: relative;
 		margin: 0 auto;
 		width: calc(100% - 4rem);
